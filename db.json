@@ -1,0 +1,105 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Dự ÁN A",
+      "describe": "Front end developer",
+      "content": "tôi là Nguyễn Trí Thức một lập trình viên làm về mảng website và chuyên về front end",
+      "linkGithub": "adadad",
+      "linkPreview": "a",
+      "completiontime": "12/10/2020",
+      "feedback": "a",
+      "technology": "React",
+      "feartedImage": [
+        "https://res.cloudinary.com/dwiloq9fa/image/upload/v1677052187/z3575285198936_f2afd52b7a2f27f664448e9e56b81cf7_zjv0cu.jpg"
+      ],
+      "Album": [
+      ],
+      "categoryProjectId": "2"
+    },
+    {
+      "id": 1,
+      "name": "Dự ÁN B",
+      "describe": "Front end developer",
+      "content": "tôi là Nguyễn Trí Thức một lập trình viên làm về mảng website và chuyên về front end",
+      "linkGithub": "BBB",
+      "linkPreview": "a",
+      "completiontime": "9/8/2020",
+      "feedback": "a",
+      "technology": "React",
+      "feartedImage": [
+        "https://res.cloudinary.com/dwiloq9fa/image/upload/v1677052187/z3575285198936_f2afd52b7a2f27f664448e9e56b81cf7_zjv0cu.jpg"
+      ],
+      "Album": [
+        "",
+        ""
+      ],
+      "categoryProjectId": "2"
+    },
+    {
+      "id": 2,
+      "name": "Dự Án C",
+      "describe": "adadadada",
+      "content": "về ngành thiết kế website",
+      "linkGithub": "aaa",
+      "linkPreview": "aaa",
+      "completiontime": "11/11/2022",
+      "feedback": "aaa",
+      "technology": "html/css/js",
+      "feartedImage": [
+        "https://res.cloudinary.com/dqqfnp0hk/image/upload/v1677056946/CV/e7y9xrazsjooomvrejef.jpg"
+      ],
+      "Album": [],
+      "categoryProjectId": "1"
+    }
+  ],
+  "categoryProjects": [
+    {
+      "id": "1",
+      "name": "HTML/CSS/JS"
+    },
+    {
+      "id": "2",
+      "name": "Reactjs"
+    },
+    {
+      "id": "3",
+      "name": "Php Larvel"
+    }
+  ],
+  "introduce": {
+    "id": "1",
+    "name": "Nguyễn Trí Thức",
+    "date": "24/12/2003",
+    "job": "Front end developer",
+    "describe": "tôi là một lập trình viên làm về mảng website và chuyên về front end",
+    "img": "https://res.cloudinary.com/dwiloq9fa/image/upload/v1677052190/anhtet2_usv1pv.jpg",
+    "imgskills": "https://res.cloudinary.com/dwiloq9fa/image/upload/v1677052187/z3575285198936_f2afd52b7a2f27f664448e9e56b81cf7_zjv0cu.jpg",
+    "content": "Tôi tên là Nguyễn Trí Thức tôi trở thành một lập trình viên vì có đam mê với nghề cũng như luyện tập khả năng tư duy của bản thân, với mong muốn năng cao giá trị của bản thân",
+    "interest": "chơi game, nghe nhạc, vẽ tranh",
+    "skills": [
+      {
+        "name": "HTML",
+        "imgskill": "./../../public/img/1.png"
+      },
+      {
+        "name": "CSS",
+        "imgskill": "./../../public/img/3.png"
+      },
+      {
+        "name": "JS",
+        "imgskill": "./../../public/img/4.png"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "0222312322",
+    "email": "thucpewnoy@gmail.com",
+    "facebook": "",
+    "instagram": ""
+  },
+  "users": {
+    "email": "thucpewnoy@gmail.com",
+    "password": "12345"
+  }
+}
